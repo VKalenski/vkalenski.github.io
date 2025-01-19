@@ -95,5 +95,15 @@
     }
     .text-container {
       text-align: justify;
+      max-width: 800px;
+      margin: 20px auto;
+      background: #fff;
+      padding: 20px;
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+      border-radius: 8px;
+    }
+    ul li {
+      margin-bottom: 8px;
+      background: #fff;
     }
   }
